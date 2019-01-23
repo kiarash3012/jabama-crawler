@@ -3,7 +3,7 @@
 ## how to run
 #### Type this commands in commandline to run project.
 1) pip install -r requirements.txt
-2) scrapy crawl [alaeddin or jabama ] -a city=[all or city-name like mashhad]
+2) scrapy crawl [alaeddin or jabama or hotelyar] -a city=[all or city-name like mashhad]
 
 ------------------------------------------
 ##### this project also needs mongodb and mysql.
