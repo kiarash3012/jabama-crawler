@@ -1,0 +1,418 @@
+[{
+	"id": 71,
+	"hid": "HFCL71",
+	"persian_title": "\u0627\u0633\u062a\u062e\u0631",
+	"english_title": "Swimming Pool",
+	"code": "5a1c5a060bb64ea04141fed4"
+}, {
+	"id": 70,
+	"hid": "HFCL70",
+	"persian_title": "\u0627\u062a\u0627\u0642 \u0686\u0645\u062f\u0627\u0646",
+	"english_title": "Baggage Room",
+  "code": "5a1c59e30bb64ea04141fed2"
+}, {
+	"id": 69,
+	"hid": "HFCL69",
+	"persian_title": "\u0632\u0645\u06cc\u0646 \u062a\u0646\u06cc\u0633",
+	"english_title": "Tennis Court",
+	"code": "*TE"
+}, {
+	"id": 68,
+	"hid": "HFCL68",
+	"persian_title": "\u0627\u062a\u0627\u0642 \u0633\u06cc\u06af\u0627\u0631",
+	"english_title": "Smoking areas",
+  "code": "5a1c59ecd870c2a03babeb62"
+}, {
+	"id": 67,
+	"hid": "HFCL67",
+	"persian_title": "\u06af\u0634\u062a \u0646\u06cc\u0645 \u0631\u0648\u0632\u06cc",
+	"english_title": "Half Day Tour"
+}, {
+	"id": 66,
+	"hid": "HFCL66",
+	"persian_title": "\u0646\u0645\u0627\u0632\u062e\u0627\u0646\u0647",
+	"english_title": "Praying Room",
+  "code": "5a1c5a8bd16071a023b853b3"
+}, {
+	"id": 65,
+	"hid": "HFCL65",
+	"persian_title": "\u0634\u0628\u06a9\u0647 \u067e\u062e\u0634 \u0641\u06cc\u0644\u0645",
+	"english_title": "Movie Channel",
+	"code": "5a1c5ab6d16071a023b853b6"
+}, {
+	"id": 64,
+	"hid": "HFCL64",
+	"persian_title": "\u0641\u062a\u0648\u06a9\u067e\u06cc",
+	"english_title": "Photocopy",
+  "code": "5a355fa149432505ecea833a"
+}, {
+	"id": 63,
+	"hid": "HFCL63",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u0628\u06cc\u062f\u0627\u0631 \u0628\u0627\u0634",
+	"english_title": "24 Hour Room Service",
+	"code": "5a35671a49432505ecea83df"
+}, {
+	"id": 62,
+	"hid": "HFCL62",
+	"persian_title": "\u062a\u0644\u0641\u0646 \u062f\u0631 \u0644\u0627\u0628\u06cc",
+	"english_title": "Lobby Phone",
+	"code": "*DD"
+}, {
+	"id": 61,
+	"hid": "HFCL61",
+	"persian_title": "\u0622\u0631\u0627\u06cc\u0634\u06af\u0627\u0647",
+	"english_title": "barber",
+	"code": "5a1c59f30bb64ea04141fed3"
+}, {
+	"id": 60,
+	"hid": "HFCL60",
+	"persian_title": "\u0627\u062a\u0627\u0642 \u062a\u0644\u0641\u0646 (\u0627\u067e\u0631\u0627\u062a\u0648\u0631)",
+	"english_title": "Operator"
+}, {
+	"id": 59,
+	"hid": "HFCL59",
+	"persian_title": "\u0644\u0627\u0628\u06cc",
+	"english_title": "lobby",
+	"code": "5a1c59b9d870c2a03babeb5f"
+}, {
+	"id": 58,
+	"hid": "HFCL58",
+	"persian_title": "\u0632\u0645\u06cc\u0646 \u0648\u0631\u0632\u0634\u06cc",
+	"english_title": "Sport Playground",
+  "code": "5a1c5a58292039a0293337a8"
+}, {
+	"id": 57,
+	"hid": "HFCL57",
+	"persian_title": "\u0633\u0631\u0648\u06cc\u0633 \u062d\u0631\u0645",
+	"english_title": "Shrine Service",
+  "code": "5a3566776e5f0105d03fcbe1"
+}, {
+	"id": 56,
+	"hid": "HFCL56",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u0628\u0631\u0627\u06cc \u0645\u0639\u0644\u0648\u0644\u06cc\u0646",
+	"english_title": "Disabled Access",
+	"code": "5a35603df33e0f05e629a875"
+}, {
+	"id": 55,
+	"hid": "HFCL55",
+	"persian_title": "\u06a9\u067e\u0633\u0648\u0644 \u0622\u062a\u0634 \u0646\u0634\u0627\u0646\u06cc",
+	"english_title": "\"Fire extinguisher",
+  "code": "5a3566fc49432505ecea83de"
+}, {
+	"id": 54,
+	"hid": "HFCL54",
+	"persian_title": "\u0631\u0633\u062a\u0648\u0631\u0627\u0646 \u0628\u0627\u0645",
+	"english_title": "Rooftop Restaurant"
+}, {
+	"id": 53,
+	"hid": "HFCL53",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a CIP (\u062a\u0634\u0631\u06cc\u0641\u0627\u062a \u0648\u06cc\u0698\u0647)",
+	"english_title": "CIP Services",
+  "code": "5a356078b1f0fa05d6955c80"
+}, {
+	"id": 52,
+	"hid": "HFCL52",
+	"persian_title": "\u06a9\u0627\u0641\u06cc \u0646\u062a",
+	"english_title": "Internet Caf\u00e9",
+  "code": "5a355f806e5f0105d03fcb8c"
+}, {
+	"id": 51,
+	"hid": "HFCL51",
+	"persian_title": "\u0632\u0646\u06af \u0647\u0634\u062f\u0627\u0631",
+	"english_title": "Alarm",
+  "code": "5a356735f33e0f05e629a914"
+}, {
+	"id": 50,
+	"hid": "HFCL50",
+	"persian_title": "\u0633\u0631\u0648\u06cc\u0633 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0627\u06cc\u0631\u0627\u0646\u06cc \u062f\u0631 \u0637\u0628\u0642\u0627\u062a",
+	"english_title": "WC",
+  "code": "5a1c5b33d16071a023b853be"
+}, {
+	"id": 49,
+	"hid": "HFCL49",
+	"persian_title": "\u0622\u0698\u0627\u0646\u0633 \u0645\u0633\u0627\u0641\u0631\u062a\u06cc",
+	"english_title": "Travel Agency",
+  "code": "5a356727b1f0fa05d6955cd0"
+}, {
+	"id": 48,
+	"hid": "HFCL48",
+	"persian_title": "\u0686\u0627\u06cc\u062e\u0627\u0646\u0647 \u0633\u0646\u062a\u06cc",
+	"english_title": "Traditional Teahouse",
+  "code": "5a1c59ae0bb64ea04141fecf"
+}, {
+	"id": 47,
+	"hid": "HFCL47",
+	"persian_title": "\u0622\u0633\u0627\u0646\u0633\u0648\u0631",
+	"english_title": "Lift",
+  "code": "5a355fcf49432505ecea833c"
+}, {
+	"id": 46,
+	"hid": "HFCL46",
+	"persian_title": "\u062a\u0631\u0627\u0646\u0633\u0641\u0631 \u0631\u0641\u062a \u0628\u0627 \u0647\u0632\u06cc\u0646\u0647",
+	"english_title": "Transfer (cost included)",
+  "code": "5a356093f33e0f05e629a877"
+}, {
+	"id": 45,
+	"hid": "HFCL45",
+	"persian_title": "\u067e\u0630\u06cc\u0631\u0634 \u06f2\u06f4 \u0633\u0627\u0639\u062a\u0647",
+	"english_title": "24 hour check-in",
+  "code": "5a35671a49432505ecea83df"
+}, {
+	"id": 44,
+	"hid": "HFCL44",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u062a\u0647\u06cc\u0647 \u0628\u0644\u06cc\u0637",
+	"english_title": "Ticket Issue Services",
+  "code": "5a35600849432505ecea833e"
+}, {
+	"id": 43,
+	"hid": "HFCL43",
+	"persian_title": "\u06a9\u062a\u0627\u0628\u062e\u0627\u0646\u0647",
+	"english_title": "Library",
+  "code": "5a1c59c10bb64ea04141fed0"
+}, {
+	"id": 42,
+	"hid": "HFCL42",
+	"persian_title": "\u0633\u06cc\u0633\u062a\u0645 \u062a\u0647\u0648\u06cc\u0647 \u0645\u0637\u0628\u0648\u0639",
+	"english_title": "Air conditioning",
+  "code": "5a35680bb1f0fa05d6955cd4"
+}, {
+	"id": 41,
+	"hid": "HFCL41",
+	"persian_title": "\u0633\u06cc\u0633\u062a\u0645 \u0627\u0639\u0644\u0627\u0645 \u062d\u0631\u06cc\u0642",
+	"english_title": "Fire Alarm",
+  "code": "5a3566ec6e5f0105d03fcbe4"
+}, {
+	"id": 40,
+	"hid": "HFCL40",
+	"persian_title": "\u0635\u0646\u062f\u0648\u0642 \u0627\u0645\u0627\u0646\u0627\u062a",
+	"english_title": "Safe Box",
+  "code": "5a1c59d10bb64ea04141fed1"
+}, {
+	"id": 39,
+	"hid": "HFCL39",
+	"persian_title": "\u0645\u0631\u06a9\u0632 \u062e\u0631\u06cc\u062f",
+	"english_title": "City center",
+  "code": "5a1c5a290bb64ea04141fed6"
+}, {
+	"id": 38,
+	"hid": "HFCL38",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u0628\u0627\u0631\u0628\u0631\u06cc",
+	"english_title": "Luggage Services",
+  "code": "5a3560156e5f0105d03fcb92"
+}, {
+	"id": 37,
+	"hid": "HFCL37",
+	"persian_title": "\u062a\u0631\u0627\u0646\u0633\u0641\u0631 \u0628\u0631\u06af\u0634\u062a \u0628\u0627 \u0647\u0632\u06cc\u0646\u0647",
+	"english_title": "Return shuttle",
+  "code": "5a3560a0b1f0fa05d6955c81"
+}, {
+	"id": 36,
+	"hid": "HFCL36",
+	"persian_title": "\u062e\u0648\u062f\u067e\u0631\u062f\u0627\u0632",
+	"english_title": "ATM",
+  "code": "5a35669d49432505ecea83dc"
+}, {
+	"id": 35,
+	"hid": "HFCL35",
+	"persian_title": "\u0622\u0634\u067e\u0632\u062e\u0627\u0646\u0647",
+	"english_title": "Kitchen",
+  "code": "5a1c5990d16071a023b853b0"
+}, {
+	"id": 34,
+	"hid": "HFCL34",
+	"persian_title": "\u067e\u0627\u0631\u06a9 \u06a9\u0648\u062f\u06a9",
+	"english_title": "Recreation room"
+}, {
+	"id": 33,
+	"hid": "HFCL33",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u0646\u06af\u0647\u062f\u0627\u0631\u06cc \u06a9\u0648\u062f\u06a9",
+	"english_title": "Babysitting Services",
+  "code": "5a35605cf33e0f05e629a876"
+}, {
+	"id": 32,
+	"hid": "HFCL32",
+	"persian_title": "\u0628\u0627\u0632\u06cc \u0648\u06cc\u062f\u0626\u0648\u06cc\u06cc",
+	"english_title": "Entertainment"
+}, {
+	"id": 31,
+	"hid": "HFCL31",
+	"persian_title": "\u0627\u06cc\u0646\u062a\u0631\u0646\u062a \u062f\u0631 \u0644\u0627\u0628\u06cc",
+	"english_title": "Internet",
+  "code": "5a355cbc6e5f0105d03fcb8b"
+}, {
+	"id": 30,
+	"hid": "HFCL30",
+	"persian_title": "\u062a\u0627\u06a9\u0633\u06cc \u0633\u0631\u0648\u06cc\u06cc\u0633",
+	"english_title": "Taxi Service",
+  "code": "5a35668249432505ecea83db"
+}, {
+	"id": 29,
+	"hid": "HFCL29",
+	"persian_title": "\u0641\u06a9\u0633",
+	"english_title": "fax",
+  "code": "5a355fb649432505ecea833b"
+}, {
+	"id": 28,
+	"hid": "HFCL28",
+	"persian_title": "\u0645\u06cc\u0646\u06cc \u0628\u0627\u0631 \u0631\u0627\u06cc\u06af\u0627\u0646",
+	"english_title": "free Minibar",
+  "code": "5a1c5af5d16071a023b853ba"
+}, {
+	"id": 27,
+	"hid": "HFCL27",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u067e\u0632\u0634\u06a9\u06cc",
+	"english_title": "Medical Services",
+  "code": "5a355fee49432505ecea833d"
+}, {
+	"id": 26,
+	"hid": "HFCL26",
+	"persian_title": "\u062a\u0644\u0648\u06cc\u0632\u06cc\u0648\u0646 \u062f\u0631 \u0644\u0627\u0628\u06cc",
+	"english_title": "Lobby TV",
+  "code": "5a355f7549432505ecea8339"
+}, {
+	"id": 25,
+	"hid": "HFCL25",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u062e\u0627\u0646\u0647 \u062f\u0627\u0631\u06cc",
+	"english_title": "House Maid",
+  "code": "5a356817f33e0f05e629a917"
+}, {
+	"id": 24,
+	"hid": "HFCL24",
+	"persian_title": "\u0641\u0636\u0627\u06cc \u0633\u0628\u0632",
+	"english_title": "Green Space",
+  "code": "5a1c5a48d870c2a03babeb67"
+}, {
+	"id": 23,
+	"hid": "HFCL23",
+	"persian_title": "\u0627\u062a\u0627\u0642 \u0628\u0627\u0632\u06cc",
+	"english_title": "Playground"
+}, {
+	"id": 22,
+	"hid": "HFCL22",
+	"persian_title": "\u0633\u0631\u0648\u06cc\u0633 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u0641\u0631\u0646\u06af\u06cc \u062f\u0631 \u0644\u0627\u0628\u06cc",
+	"english_title": "Western Toilet in Lobby",
+  "code": "5a1c5b39292039a0293337b5"
+}, {
+	"id": 21,
+	"hid": "HFCL21",
+	"persian_title": "\u06af\u06cc\u0645 \u0646\u062a",
+	"english_title": "Gamenet",
+  "code": "5a355f8f6e5f0105d03fcb8d"
+}, {
+	"id": 20,
+	"hid": "HFCL20",
+	"persian_title": "\u0633\u0627\u0644\u0646 \u0628\u06cc\u0644\u06cc\u0627\u0631\u062f",
+	"english_title": "Pool",
+  "code": "5a1c5a060bb64ea04141fed4"
+}, {
+	"id": 19,
+	"hid": "HFCL19",
+	"persian_title": "\u0645\u0627\u0633\u0627\u0698",
+	"english_title": "Spa",
+  "code": "5a380def32fc6f209893c4b2"
+}, {
+	"id": 18,
+	"hid": "HFCL18",
+	"persian_title": "\u067e\u0627\u0631\u06a9\u06cc\u0646\u06af",
+	"english_title": "Parking",
+  "code": "5a1c59c9d870c2a03babeb60"
+}, {
+	"id": 17,
+	"hid": "HFCL17",
+	"persian_title": "\u0633\u0631\u0648\u06cc\u0633 \u0628\u0647\u062f\u0627\u0634\u062a\u06cc \u062f\u0631\u0644\u0627\u0628\u06cc",
+	"english_title": "Lobby Bathroom"
+}, {
+	"id": 16,
+	"hid": "HFCL16",
+	"persian_title": "\u067e\u0644\u0647 \u0627\u0636\u0637\u0631\u0627\u0631\u06cc",
+	"english_title": "Emergency Exit"
+}, {
+	"id": 15,
+	"hid": "HFCL15",
+	"persian_title": "\u062f\u0633\u062a\u06af\u0627\u0647 \u0648\u0627\u06a9\u0633 \u06a9\u0641\u0634",
+	"english_title": "Shoe Polish Machine",
+  "code": "5a355fc36e5f0105d03fcb8f"
+}, {
+	"id": 14,
+	"hid": "HFCL14",
+	"persian_title": "\u0622\u062a\u0644\u06cc\u0647",
+	"english_title": "Photo Studio",
+  "code": "5a1c5a32d870c2a03babeb66"
+}, {
+	"id": 13,
+	"hid": "HFCL13",
+	"persian_title": "\u067e\u0631\u06cc\u0646\u062a\u0631",
+	"english_title": "Printer",
+  "code": "5a355fad6e5f0105d03fcb8e"
+}, {
+	"id": 12,
+	"hid": "HFCL12",
+	"persian_title": "\u0641\u0631\u0648\u0634\u06af\u0627\u0647",
+	"english_title": "Shop",
+  "code": "*SH"
+}, {
+	"id": 11,
+	"hid": "HFCL11",
+	"persian_title": "\u0635\u0631\u0627\u0641\u06cc",
+	"english_title": "Exchange",
+  "code": "5a1c5a3f0bb64ea04141fed7"
+}, {
+	"id": 10,
+	"hid": "HFCL10",
+	"persian_title": "\u0633\u0648\u0646\u0627",
+	"english_title": "sauna",
+  "code": "5a1c5a0ed870c2a03babeb64"
+}, {
+	"id": 9,
+	"hid": "HFCL9",
+	"persian_title": "\u062e\u062f\u0645\u0627\u062a \u062a\u0648\u0631",
+	"english_title": "Tour Services",
+  "code": "5a35604cb1f0fa05d6955c7f"
+}, {
+	"id": 8,
+	"hid": "HFCL8",
+	"persian_title": "\u067e\u0631\u062f\u0627\u062e\u062a \u0648\u06cc\u0632\u0627 \u0648 \u0645\u0633\u062a\u0631\u06a9\u0627\u0631\u062a",
+	"english_title": "Pay with Visa/Master Card",
+  "code": "5a3566c249432505ecea83dd"
+}, {
+	"id": 7,
+	"hid": "HFCL7",
+	"persian_title": "\u06a9\u0631\u0627\u06cc\u0647 \u0627\u062a\u0648\u0645\u0628\u06cc\u0644 (\u0628\u062f\u0648\u0646 \u0631\u0627\u0646\u0646\u062f\u0647)",
+	"english_title": "Rent a Car",
+  "code": "5a35668e6e5f0105d03fcbe2"
+}, {
+	"id": 6,
+	"hid": "HFCL6",
+	"persian_title": "\u062c\u06a9\u0648\u0632\u06cc",
+	"english_title": "jacuzzi",
+  "code": "5a1c5b0b292039a0293337b2"
+}, {
+	"id": 5,
+	"hid": "HFCL5",
+	"persian_title": "\u0631\u0648\u0632\u0646\u0627\u0645\u0647",
+	"english_title": "Newspaper",
+  "code": "5a3567beb1f0fa05d6955cd2"
+}, {
+	"id": 4,
+	"hid": "HFCL4",
+	"persian_title": "\u06a9\u0627\u0641\u06cc \u0634\u0627\u067e",
+	"english_title": "Caf\u00e9",
+  "code": "5a1c59a4d870c2a03babeb5e"
+}, {
+	"id": 3,
+	"hid": "HFCL3",
+	"persian_title": "\u0644\u0627\u0646\u062f\u0631\u06cc (\u062e\u0634\u06a9\u0634\u0648\u06cc\u06cc)",
+	"english_title": "Laundry"
+}, {
+	"id": 2,
+	"hid": "HFCL2",
+	"persian_title": "\u0645\u06cc\u0646\u06cc \u0628\u0627\u0631 \u0628\u0627 \u0647\u0632\u06cc\u0646\u0647",
+	"english_title": "Minibar",
+  "code": "5a1c5997292039a0293337a7"
+}, {
+	"id": 1,
+	"hid": "HFCL1",
+	"persian_title": "\u0633\u0627\u0644\u0646 \u0648\u0631\u0632\u0634\u06cc",
+	"english_title": "Gym",
+  "code": "5a1c5a60d16071a023b853b2"
+}]
